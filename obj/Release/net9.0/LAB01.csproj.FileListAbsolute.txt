@@ -1,0 +1,14 @@
+C:\Users\Kacper\RiderProjects\Mobilka\LAB01\bin\Release\net9.0\LAB01.exe
+C:\Users\Kacper\RiderProjects\Mobilka\LAB01\bin\Release\net9.0\LAB01.deps.json
+C:\Users\Kacper\RiderProjects\Mobilka\LAB01\bin\Release\net9.0\LAB01.runtimeconfig.json
+C:\Users\Kacper\RiderProjects\Mobilka\LAB01\bin\Release\net9.0\LAB01.dll
+C:\Users\Kacper\RiderProjects\Mobilka\LAB01\bin\Release\net9.0\LAB01.pdb
+C:\Users\Kacper\RiderProjects\Mobilka\LAB01\obj\Release\net9.0\LAB01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\RiderProjects\Mobilka\LAB01\obj\Release\net9.0\LAB01.AssemblyInfoInputs.cache
+C:\Users\Kacper\RiderProjects\Mobilka\LAB01\obj\Release\net9.0\LAB01.AssemblyInfo.cs
+C:\Users\Kacper\RiderProjects\Mobilka\LAB01\obj\Release\net9.0\LAB01.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\RiderProjects\Mobilka\LAB01\obj\Release\net9.0\LAB01.dll
+C:\Users\Kacper\RiderProjects\Mobilka\LAB01\obj\Release\net9.0\refint\LAB01.dll
+C:\Users\Kacper\RiderProjects\Mobilka\LAB01\obj\Release\net9.0\LAB01.pdb
+C:\Users\Kacper\RiderProjects\Mobilka\LAB01\obj\Release\net9.0\LAB01.genruntimeconfig.cache
+C:\Users\Kacper\RiderProjects\Mobilka\LAB01\obj\Release\net9.0\ref\LAB01.dll

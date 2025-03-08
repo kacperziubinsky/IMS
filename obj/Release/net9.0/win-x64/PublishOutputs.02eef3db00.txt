@@ -1,0 +1,2 @@
+C:\Users\Kacper\RiderProjects\Mobilka\LAB01\bin\Release\net9.0\win-x64\publish\LAB01.pdb
+C:\Users\Kacper\RiderProjects\Mobilka\LAB01\bin\Release\net9.0\win-x64\publish\LAB01.exe

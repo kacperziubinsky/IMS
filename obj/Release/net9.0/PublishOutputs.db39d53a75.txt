@@ -1,0 +1,5 @@
+C:\Users\Kacper\RiderProjects\Mobilka\LAB01\bin\Release\net9.0\publish\LAB01.exe
+C:\Users\Kacper\RiderProjects\Mobilka\LAB01\bin\Release\net9.0\publish\LAB01.dll
+C:\Users\Kacper\RiderProjects\Mobilka\LAB01\bin\Release\net9.0\publish\LAB01.deps.json
+C:\Users\Kacper\RiderProjects\Mobilka\LAB01\bin\Release\net9.0\publish\LAB01.runtimeconfig.json
+C:\Users\Kacper\RiderProjects\Mobilka\LAB01\bin\Release\net9.0\publish\LAB01.pdb

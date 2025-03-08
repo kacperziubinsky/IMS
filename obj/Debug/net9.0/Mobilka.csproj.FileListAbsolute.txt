@@ -1,0 +1,14 @@
+C:\Users\Kacper\RiderProjects\Mobilka\Mobilka\bin\Debug\net9.0\Mobilka.exe
+C:\Users\Kacper\RiderProjects\Mobilka\Mobilka\bin\Debug\net9.0\Mobilka.deps.json
+C:\Users\Kacper\RiderProjects\Mobilka\Mobilka\bin\Debug\net9.0\Mobilka.runtimeconfig.json
+C:\Users\Kacper\RiderProjects\Mobilka\Mobilka\bin\Debug\net9.0\Mobilka.dll
+C:\Users\Kacper\RiderProjects\Mobilka\Mobilka\bin\Debug\net9.0\Mobilka.pdb
+C:\Users\Kacper\RiderProjects\Mobilka\Mobilka\obj\Debug\net9.0\Mobilka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\RiderProjects\Mobilka\Mobilka\obj\Debug\net9.0\Mobilka.AssemblyInfoInputs.cache
+C:\Users\Kacper\RiderProjects\Mobilka\Mobilka\obj\Debug\net9.0\Mobilka.AssemblyInfo.cs
+C:\Users\Kacper\RiderProjects\Mobilka\Mobilka\obj\Debug\net9.0\Mobilka.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\RiderProjects\Mobilka\Mobilka\obj\Debug\net9.0\Mobilka.dll
+C:\Users\Kacper\RiderProjects\Mobilka\Mobilka\obj\Debug\net9.0\refint\Mobilka.dll
+C:\Users\Kacper\RiderProjects\Mobilka\Mobilka\obj\Debug\net9.0\Mobilka.pdb
+C:\Users\Kacper\RiderProjects\Mobilka\Mobilka\obj\Debug\net9.0\Mobilka.genruntimeconfig.cache
+C:\Users\Kacper\RiderProjects\Mobilka\Mobilka\obj\Debug\net9.0\ref\Mobilka.dll
